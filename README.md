@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=500&height=50&color=00ffcc">
 </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,java,aws,intelij,git,github,vscode,antigravity&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,java,aws,idea,git,github,vscode&theme=dark"/>
 </p>
 
 
