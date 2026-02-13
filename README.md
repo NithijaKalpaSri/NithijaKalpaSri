@@ -4,7 +4,8 @@
 
 <img src="animated-avatar.svg" width="260"/><br>
 
-<img src="https://raw.githubusercontent.com/nithijakalpasri/nithijakalpasri/main/avatar.png" width="200" style="margin-top:-230px"/>
+<img src="https://raw.githubusercontent.com/nithijakalpasri/nithijakalpasri/main/avatar.png"
+
 
 </p>
 
