@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Mini+Developer+Loading...;Linux+User+BTW;Software+Engineering+Student;&center=true&width=500&height=50&color=00ffcc&size=22">
-<p align="center" style="position: relative; width:260px; margin:auto;">
+  <img src="animated-avatar.svg" width="260">
+</p>
 
 <img src="animated-avatar.svg" width="260" style="position:absolute; left:0; top:0;">
 
