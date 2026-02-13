@@ -16,10 +16,9 @@ xmlns="http://www.w3.org/2000/svg">
       repeatCount="indefinite"/>
   </circle>
 
-  <image href="https://github.com/NithijaKalpaSri/NithijaKalpaSri/blob/main/avatar.png?raw=true"
-    x="30"
-    y="30"
-    height="200"
-    width="200"/>
+ <p align="center">
+  <img src="avatar.png" width="220">
+</p>
+
 
 </svg>
