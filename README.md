@@ -7,8 +7,6 @@
 
 
 
-
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc&size=32">
 </p>
@@ -23,6 +21,10 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a1a&height=150&section=header&text=SYSTEM%20INITIALIZING...&fontColor=00ffcc&animation=fadeIn"/>
 </p>
+
+
+
+
 <table align="center" style="border:none;">
 <tr style="border:none;">
 
@@ -33,7 +35,7 @@
 <td width="30"></td>
 
 <td style="border:none;">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3dGR4aHRmaDk3d25nNm4ybWpoY2luYXFtZ2Fha285cGR3aDNnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e0Ha5zFyv01iY3MXG2/giphy.gif" width="200"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g2ejA0Ymo0b2RmbnZpMHdycTZtYXN6dTR1bW5uN2tlbjN3cDF4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wQOWdWdmwYnVS/giphy.gif" width="200"/>
 </td>
 
 <td width="30"></td>
@@ -50,6 +52,8 @@
 
 </tr>
 </table>
+
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=3"/>
