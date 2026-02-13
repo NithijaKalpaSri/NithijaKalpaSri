@@ -5,7 +5,7 @@
 
 <h1 align="center">Yo! I am Nithija Kalpa 👋</h1>
 
-
+Just tech ! ✌️
 Testing arch btw .... 🐧⚔️
 
 
