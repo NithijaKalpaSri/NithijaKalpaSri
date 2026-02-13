@@ -19,36 +19,7 @@ Testing arch btw 🐧⚔️
 
 
 
-<!-- NEON TOP LINE -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=3"/>
-</p>
 
-
-<!-- FRONTEND PANEL -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=🚀+FRONTEND+SYSTEM&center=true&width=400&height=40&color=00ffcc&size=24">
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
-</p>
-
-
-<br>
-
-
-<!-- BACKEND PANEL -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=⚙️+BACKEND+ENGINE&center=true&width=400&height=40&color=00ffcc&size=24">
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,docker,spring&theme=dark"/>
-</p>
-
-
-<br>
 
 <!-- NEON TOP LINE -->
 <p align="center">
