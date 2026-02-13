@@ -1,13 +1,9 @@
 ## Hi there 👋
 
-
-
-
-<img src="animated-avatar.svg" width="260" style="position:absolute; left:0; top:0;">
-
-<img src="avatar.png" width="200" style="position:relative; margin-top:30px;">
-
+<p align="center">
+  <img src="avatar.png" width="220">
 </p>
+
 
 
 <!--
