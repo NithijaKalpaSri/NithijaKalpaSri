@@ -5,6 +5,24 @@
   <img src="avatar.png" width="320">
 </p>
 
+
+
+
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc&size=32">
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,java,aws,idea,git,github,vscode&theme=dark"/>
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=2&section=header"/>
+</p>
+<div style="height:80px;"></div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a1a&height=150&section=header&text=SYSTEM%20INITIALIZING...&fontColor=00ffcc&animation=fadeIn"/>
+</p>
 <table align="center" style="border:none;">
 <tr style="border:none;">
 
@@ -33,23 +51,6 @@
 </tr>
 </table>
 
-
-
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc&size=32">
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,java,aws,idea,git,github,vscode&theme=dark"/>
-</p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=2&section=header"/>
-</p>
-<div style="height:80px;"></div>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a1a&height=150&section=header&text=SYSTEM%20INITIALIZING...&fontColor=00ffcc&animation=fadeIn"/>
-</p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=3"/>
 </p>
