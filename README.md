@@ -6,7 +6,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=2&section=header"/>
 </p>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc">
 </p>
@@ -14,15 +13,31 @@
 <img src="https://skillicons.dev/icons?i=linux,java,aws,idea,git,github,vscode&theme=dark"/>
 </p>
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=2&section=header"/>
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NithijaKalpaSri&show_icons=true&theme=tokyonight"/>
 </p>
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=2&section=header"/>
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NithijaKalpaSri&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=2&section=header"/>
+</p>
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=NithijaKalpaSri&theme=tokyonight&hide_border=true"/>
 </p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=2&section=header"/>
+</p>
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NithijaKalpaSri&theme=tokyo-night&hide_border=true"/>
 </p>
