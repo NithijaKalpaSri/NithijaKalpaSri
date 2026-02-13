@@ -30,8 +30,7 @@
 <img src="https://streak-stats.demolab.com?user=NithijaKalpaSri&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=2&section=header"/>
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NithijaKalpaSri&theme=tokyo-night&hide_border=true"/>
