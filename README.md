@@ -6,6 +6,10 @@
 <p align="left">
 <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="350">
 </p>
+<p align="right">
+<img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="400">
+</p>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc&size=32">
 </p>
