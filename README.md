@@ -16,24 +16,54 @@ Testing arch btw 🐧⚔️
 <img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc&size=32">
 </p>
 
-<h3 align="center">🔥 Skills </h1>
 
-<h3 align="left">🚀 Frontend</h3>
+
+
+<!-- NEON TOP LINE -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=3"/>
+</p>
+
+
+<!-- FRONTEND PANEL -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=🚀+FRONTEND+SYSTEM&center=true&width=400&height=40&color=00ffcc&size=24">
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 </p>
 
-<h3 align="left">⚙️ Backend</h3>
+
+<br>
+
+
+<!-- BACKEND PANEL -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=⚙️+BACKEND+ENGINE&center=true&width=400&height=40&color=00ffcc&size=24">
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,docker,spring&theme=dark"/>
 </p>
 
-<h3 align="left">🧰 IDE & Tools</h3>
+
+<br>
+
+
+<!-- IDE CONTROL PANEL -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=🧰+IDE+CONTROL+PANEL&center=true&width=400&height=40&color=00ffcc&size=24">
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark"/>
+</p>
+
+
+<!-- NEON BOTTOM LINE -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0099ff,100:00ffcc&height=3"/>
 </p>
 
 
