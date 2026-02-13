@@ -2,9 +2,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:020024&height=200&section=header&text=&animation=fadeIn"/>
 </p>
-<p align="center">
-<img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="900"/>
-</p>
+
 
 
 <p align="center">
@@ -109,7 +107,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=SYSTEM+ONLINE...;CloudOps+Loading...;Linux+User+BTW;Cyberpunk+Builder&center=true&width=700&height=80&color=00ffcc&size=40">
 </p>
-
+<p align="center">
+<img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="900"/>
+</p>
 
 
 
