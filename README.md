@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center">Yo! I am Nithija Kalpa 👋</h2>
+<h1 align="center">Yo! I am Nithija Kalpa 👋</h1>
 
 
 Testing arch btw .... 🐧⚔️
