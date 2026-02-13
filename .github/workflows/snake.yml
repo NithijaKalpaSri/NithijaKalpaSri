@@ -1,0 +1,11 @@
+name: generate animation
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
