@@ -10,7 +10,7 @@
 <img src="https://skillicons.dev/icons?i=linux,java,aws,idea,git,github,vscode&theme=dark"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nithijakalpasri&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NithijaKalpaSri&show_icons=true&theme=tokyonight"/>
 </p>
 
 
