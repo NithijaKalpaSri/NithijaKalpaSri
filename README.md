@@ -15,7 +15,9 @@
 </p>
 <div style="height:80px;"></div>
 
-<h2 align="center">⚡ Developer Stats Dashboard</h2>
+<p align="center">
+<b style="font-size:28px;">🔥 Developer Dashboard </b>
+</p>
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NithijaKalpaSri&show_icons=true&theme=tokyonight"/>
 </p>
@@ -30,7 +32,10 @@
 
 
 
-<h2 align="center">🔥 Coding Streak</h2>
+<p align="center">
+<b style="font-size:28px;">🔥 Coding Streak</b>
+</p>
+
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=NithijaKalpaSri&theme=tokyonight&hide_border=true"/>
 </p>
