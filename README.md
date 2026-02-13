@@ -5,34 +5,24 @@
   <img src="avatar.png" width="320">
 </p>
 
+<p align="center">
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-
-<td>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamViZWI4aWptc3hlZm1kM3BueHZiZXlmYnE3dWQ3c2lmYms3Z2J3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J2WSNk9IQlxJ0S37wb/giphy.gif" width="220"/>
-</td>
 
-<td width="40"></td>
+&nbsp;&nbsp;&nbsp;
 
-<td>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3dGR4aHRmaDk3d25nNm4ybWpoY2luYXFtZ2Fha285cGR3aDNnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e0Ha5zFyv01iY3MXG2/giphy.gif" width="220"/>
-</td>
 
-<td width="40"></td>
+&nbsp;&nbsp;&nbsp;
 
-<td>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ0ZzdjNDJlZ3V3bDJmOWR1MWk1OWR4NXUxZngyeGJmNHk4NGZjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93NVa6Fau0XUVSiNaW/giphy.gif" width="220"/>
-</td>
 
-<td width="40"></td>
+&nbsp;&nbsp;&nbsp;
 
-<td>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBwMTAxOTNqd2Z0eXl3anE1Y3Vha2M1eXdjNWgycXpzbWk0dHQwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JhhJnTtgXRHHy/giphy.gif" width="220"/>
-</td>
 
-</tr>
-</table>
+</p>
+
 
 
 
