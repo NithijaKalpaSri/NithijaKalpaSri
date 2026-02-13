@@ -4,6 +4,10 @@
   <img src="avatar.png" width="320">
 </p>
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=2&section=header"/>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc">
 </p>
 <p align="center">
