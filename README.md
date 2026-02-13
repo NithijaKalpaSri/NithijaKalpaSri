@@ -3,7 +3,7 @@
 
 <svg width="260" height="260" viewBox="0 0 260 260">
 
-  <!-- glowing animated circle -->
+  <!-- rotating glowing circle -->
   <circle cx="130" cy="130" r="110"
     stroke="#00ffcc"
     stroke-width="3"
@@ -16,18 +16,18 @@
       from="0 130 130"
       to="360 130 130"
       dur="10s"
-      repeatCount="indefinite"/>
+      repeatCount="indefinite" />
   </circle>
 
-  <!-- your avatar -->
+  <!-- your avatar image -->
   <image href="avatar.png"
     x="30"
     y="30"
     height="200"
-    width="200"
-    clip-path="circle(100px at center)" />
+    width="200" />
 
 </svg>
+
 
 </p>
 
