@@ -7,8 +7,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=2&section=header"/>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc">
+<img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc&size=32">
 </p>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,java,aws,idea,git,github,vscode&theme=dark"/>
 </p>
