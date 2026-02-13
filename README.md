@@ -50,11 +50,36 @@ Testing arch btw 🐧⚔️
 
 <br>
 
-
-<!-- IDE CONTROL PANEL -->
+<!-- NEON TOP LINE -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=🧰+IDE+CONTROL+PANEL&center=true&width=400&height=40&color=00ffcc&size=24">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=3"/>
 </p>
+
+
+<!-- FRONTEND -->
+<h3 align="center">🚀 FRONTEND SYSTEM</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+</p>
+
+
+<br>
+
+
+<!-- BACKEND -->
+<h3 align="center">⚙️ BACKEND ENGINE</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,docker,spring&theme=dark"/>
+</p>
+
+
+<br>
+
+
+<!-- IDE PANEL -->
+<h3 align="center">🧰 IDE CONTROL PANEL</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark"/>
@@ -65,7 +90,6 @@ Testing arch btw 🐧⚔️
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0099ff,100:00ffcc&height=3"/>
 </p>
-
 
 
 
