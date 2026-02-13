@@ -2,9 +2,10 @@
 <img src="avatar_gif.gif?v=2" width="250">
 </p>
 
-<p align="center">
-## Yo! I am Nithija Kalpa 👋
-</p>
+
+<h2 align="center">Yo! I am Nithija Kalpa 👋</h2>
+
+
 Testing arch btw .... 🐧⚔️
 
 
