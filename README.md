@@ -15,7 +15,7 @@
 <td width="40"></td>
 
 <td>
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="220" style="border-radius:12px"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3dGR4aHRmaDk3d25nNm4ybWpoY2luYXFtZ2Fha285cGR3aDNnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e0Ha5zFyv01iY3MXG2/giphy.gif" width="220" style="border-radius:12px"/>
 </td>
 
 <td width="40"></td>
