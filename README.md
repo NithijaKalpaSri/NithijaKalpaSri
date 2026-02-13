@@ -9,7 +9,7 @@
 <tr>
 
 <td>
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="220" style="border-radius:12px"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamViZWI4aWptc3hlZm1kM3BueHZiZXlmYnE3dWQ3c2lmYms3Z2J3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J2WSNk9IQlxJ0S37wb/giphy.gif" width="220" style="border-radius:12px"/>
 </td>
 
 <td width="40"></td>
