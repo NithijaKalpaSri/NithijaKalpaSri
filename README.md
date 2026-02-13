@@ -22,6 +22,10 @@
 </p>
 
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=3"/>
+</p>
+
+<p align="center">
 <b style="font-size:50px;">🔥 Developer Dashboard </b>
 </p>
 <p align="center">
