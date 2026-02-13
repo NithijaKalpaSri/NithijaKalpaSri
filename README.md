@@ -3,6 +3,21 @@
 <p align="center">
   <img src="avatar.png" width="320">
 </p>
+<table align="center">
+<tr>
+<td>
+
+<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="300"/>
+
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc&size=32">
@@ -58,9 +73,6 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NithijaKalpaSri&theme=tokyo-night&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="350">
 </p>
 
 
