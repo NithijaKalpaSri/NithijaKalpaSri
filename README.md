@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Nithija%20Kalpa%20Sri&fontSize=40&fontColor=00ffcc&animation=fadeIn"/>
 <p align="center">
-  <img src="avatar.png" width="220">
+  <img src="avatar.png" width="260">
 </p>
 
 <!--
