@@ -13,11 +13,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=2&section=header"/>
 </p>
-<div style="height:40px;"></div>
-<div style="height:40px;"></div>
-<div style="height:40px;"></div>
-<div style="height:40px;"></div>
-
+<div style="height:80px;"></div>
 
 <h2 align="center">⚡ Developer Stats Dashboard</h2>
 <p align="center">
@@ -30,10 +26,8 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=2&section=header"/>
 </p>
-<div style="height:40px;"></div>
-<div style="height:40px;"></div>
-<div style="height:40px;"></div>
-<div style="height:40px;"></div>
+<div style="height:80px;"></div>
+
 
 
 <h2 align="center">🔥 Coding Streak</h2>
