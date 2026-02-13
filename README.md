@@ -26,7 +26,7 @@ Testing arch btw ....🐧⚔️
 <h3 align="center">🚀 FRONTEND SYSTEM</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,ts&theme=dark"/>
 </p>
 
 
@@ -37,7 +37,7 @@ Testing arch btw ....🐧⚔️
 <h3 align="center">⚙️ BACKEND ENGINE</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,docker,spring&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,docker,spring,c,cs,php,cpp&theme=dark"/>
 </p>
 
 
@@ -48,7 +48,7 @@ Testing arch btw ....🐧⚔️
 <h3 align="center">🧰 IDE CONTROL PANEL</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,postman&theme=dark"/>
 </p>
 
 
