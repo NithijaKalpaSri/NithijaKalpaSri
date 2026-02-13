@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="avatar.png" width="220">
+  <img src="avatar.png" width="320">
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=500&height=50&color=00ffcc">
