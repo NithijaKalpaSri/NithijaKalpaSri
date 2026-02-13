@@ -1,5 +1,5 @@
 <p align="center">
-<img src="avatargif.gif?v=2" width="250">
+<img src="avatar_gif.gif?v=2" width="250">
 </p>
 
 ## Yo! I am Nithija Kalpa 👋
