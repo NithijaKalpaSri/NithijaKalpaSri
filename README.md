@@ -16,7 +16,7 @@
 <div style="height:80px;"></div>
 
 <p align="center">
-<b style="font-size:28px;">🔥 Developer Dashboard </b>
+<b style="font-size:50px;">🔥 Developer Dashboard </b>
 </p>
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NithijaKalpaSri&show_icons=true&theme=tokyonight"/>
@@ -33,7 +33,7 @@
 
 
 <p align="center">
-<b style="font-size:28px;">🔥 Coding Streak</b>
+<b style="font-size:50px;">🔥 Coding Streak</b>
 </p>
 
 <p align="center">
