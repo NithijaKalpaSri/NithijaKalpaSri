@@ -1,15 +1,10 @@
 ## Yo! I am Nithija Kalpa👋
-Testing arch btw 🐧⚔️
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:020024&height=200&section=header&text=&animation=fadeIn"/>
-</p>
-
+Testing arch btw ....🐧⚔️
 
 
 <p align="center">
   <img src="avatar.png" width="450">
 </p>
-
 
 
 <p align="center">
