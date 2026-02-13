@@ -3,6 +3,9 @@
 <p align="center">
   <img src="avatar.png" width="300">
 </p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=CloudOps+Engineer+Loading...;Linux+User;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=500&height=50&color=00ffcc&size=22">
+</p>
 
 <!--
 **NithijaKalpaSri/NithijaKalpaSri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
