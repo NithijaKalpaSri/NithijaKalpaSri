@@ -2,7 +2,7 @@
 Testing arch btw .... 🐧⚔️
 
 <p align="center">
-  <img src="code_avatar.png" width="500">
+<img src="code_avatar.png" width="500">
 </p>
 
 <p align="center">
@@ -40,26 +40,45 @@ Testing arch btw .... 🐧⚔️
 
 <h2 align="center">🔥 Developer Dashboard</h2>
 
-<p align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NithijaKalpaSri&show_icons=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NithijaKalpaSri&layout=compact&theme=tokyonight"/>
-</p>
+<table align="center">
+<tr>
+
+<td>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NithijaKalpaSri&show_icons=true&theme=tokyonight"/>
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NithijaKalpaSri&layout=compact&theme=tokyonight"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<h2 align="center">⚡ Coding Streak</h2>
+<h2 align="center">⚡ Activity Panel</h2>
 
-<p align="center">
+<table align="center">
+<tr>
+
+<td>
+
 <img src="https://streak-stats.demolab.com?user=NithijaKalpaSri&theme=tokyonight&hide_border=true"/>
-</p>
 
----
+</td>
 
-<h2 align="center">📈 Activity Graph</h2>
+<td>
 
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NithijaKalpaSri&theme=tokyo-night&hide_border=true"/>
-</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
