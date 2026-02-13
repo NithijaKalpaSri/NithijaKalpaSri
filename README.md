@@ -1,13 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
 
-<img src="animated-avatar.svg" width="260"/><br>
-
-<img src="https://raw.githubusercontent.com/nithijakalpasri/nithijakalpasri/main/avatar.png"
-
-
-</p>
 
 
 <img src="animated-avatar.svg" width="260" style="position:absolute; left:0; top:0;">
