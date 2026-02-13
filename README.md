@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Nithija%20Kalpa%20sri&fontSize=40&fontColor=00ffcc&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Nithija%20Kalpa%20Sri&fontSize=40&fontColor=00ffcc&animation=fadeIn"/>
 
 <!--
 **NithijaKalpaSri/NithijaKalpaSri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
