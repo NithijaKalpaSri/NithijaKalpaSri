@@ -1,5 +1,5 @@
 <p align="center">
-<img src="code_avatar.png" width="250">
+<img src="Untitled design.gif" width="250">
 </p>
 
 ## Yo! I am Nithija Kalpa 👋
