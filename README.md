@@ -1,4 +1,5 @@
 ## Yo! I am Nithija Kalpa👋
+Testing arch btw 🐧⚔️
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:020024&height=200&section=header&text=&animation=fadeIn"/>
 </p>
@@ -15,21 +16,21 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc&size=32">
 </p>
 
-<h3 align="center">🔥 Skills </h2>
+<h3 align="center">🔥 Skills </h1>
 
-<h3 align="center">🚀 Frontend</h3>
+<h3 align="left">🚀 Frontend</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 </p>
 
-<h3 align="center">⚙️ Backend</h3>
+<h3 align="left">⚙️ Backend</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,docker,spring&theme=dark"/>
 </p>
 
-<h3 align="center">🧰 IDE & Tools</h3>
+<h3 align="left">🧰 IDE & Tools</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark"/>
