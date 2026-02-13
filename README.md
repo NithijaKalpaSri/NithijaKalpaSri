@@ -1,9 +1,11 @@
+<p align="center">
+<img src="code_avatar.png" width="250">
+</p>
+
 ## Yo! I am Nithija Kalpa 👋
 Testing arch btw .... 🐧⚔️
 
-<p align="center">
-<img src="code_avatar.png" width="500">
-</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc&size=32">
