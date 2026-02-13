@@ -16,12 +16,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=2&section=header"/>
 </p>
-
+<h2 align="center">⚡ Developer Stats Dashboard</h2>
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NithijaKalpaSri&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=2&section=header"/>
 </p>
 
 <p align="center">
