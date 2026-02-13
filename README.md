@@ -18,6 +18,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a1a&height=150&section=header&text=SYSTEM%20INITIALIZING...&fontColor=00ffcc&animation=fadeIn"/>
 </p>
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=3"/>
+</p>
+
+<p align="center">
 <b style="font-size:50px;">🔥 Developer Dashboard </b>
 </p>
 <p align="center">
@@ -33,6 +37,9 @@
 <div style="height:80px;"></div>
 
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:0099ff&height=3"/>
+</p>
 
 <p align="center">
 <b style="font-size:50px;">🔥 Coding Streak</b>
