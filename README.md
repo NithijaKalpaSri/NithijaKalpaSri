@@ -4,7 +4,7 @@
   <img src="avatar.png" width="320">
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=500&height=50&color=00ffcc">
+<img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc">
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,java,aws,idea,git,github,vscode&theme=dark"/>
