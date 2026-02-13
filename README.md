@@ -9,23 +9,30 @@
 <tr>
 
 <td>
-<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="220" style="border-radius:12px"/>
 </td>
 
-<td>
-<img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="220"/>
-</td>
+<td width="40"></td>
 
 <td>
-<img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="220" style="border-radius:12px"/>
 </td>
 
+<td width="40"></td>
+
 <td>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="220" style="border-radius:12px"/>
+</td>
+
+<td width="40"></td>
+
+<td>
+<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="220" style="border-radius:12px"/>
 </td>
 
 </tr>
 </table>
+
 
 
 
