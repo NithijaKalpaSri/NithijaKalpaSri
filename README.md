@@ -3,7 +3,7 @@ Testing arch btw ....🐧⚔️
 
 
 <p align="center">
-  <img src="avatar.png" width="450">
+  <img src="code_avatar.png" width="600">
 </p>
 
 
