@@ -32,7 +32,7 @@ Testing arch btw 🐧⚔️....
 
 <h3 align="center">Tools & IDE</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,ubuntu,postman&theme=dark"/>
 </p>
 
 ---
