@@ -27,12 +27,12 @@ Testing arch btw 🐧⚔️....
 
 <h3 align="center">Backend</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,docker,mysql,spring,c,cs,php,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,docker,firebase,spring,c,cs,php,cpp&theme=dark"/>
 </p>
 
 <h3 align="center">Tools & IDE</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,ubuntu,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,ubuntu,arch,postman&theme=dark"/>
 </p>
 
 ---
