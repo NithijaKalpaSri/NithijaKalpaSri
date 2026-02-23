@@ -32,7 +32,7 @@ Learning arch btw 🐧⚔️...
 
 <h3 align="center">Tools & IDE</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,github,figma,linux,ubuntu,debian,arch,discord,androidstudio,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,github,figma,linux,ubuntu,debian,arch,discord,notion,androidstudio,postman&theme=dark"/>
 </p>
 
 ---
