@@ -6,7 +6,7 @@
 <h1 align="center">Yo! I am Nithija Kalpa 👋</h1>
 
 Just tech ! ✌️<br>
-Testing arch btw 🐧⚔️...
+Learning arch btw 🐧⚔️...
 
 
 
@@ -32,7 +32,7 @@ Testing arch btw 🐧⚔️...
 
 <h3 align="center">Tools & IDE</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,linux,ubuntu,arch,androidstudio,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclips,git,github,figma,linux,ubuntu,debian,arch,discord,androidstudio,postman&theme=dark"/>
 </p>
 
 ---
