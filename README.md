@@ -13,7 +13,7 @@ Learning arch btw 🐧⚔️...
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Linux+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc&size=32">
+<img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Arch+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc&size=32">
 </p>
 
 ---
