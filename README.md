@@ -32,13 +32,13 @@ Learning arch btw 🐧⚔️...
 
 <h3 align="center">Tools & IDE</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,github,figma,linux,ubuntu,mint,debian,arch,discord,notion,androidstudio,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,github,figma,discord,notion,androidstudio,postman&theme=dark"/>
 </p>
 
 <h3 align="center">Operating Systems</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=arch,debian,mint,ubuntu&theme=dark"/>
----
+<img src="https://skillicons.dev/icons?i=windows,arch,debian,mint,ubuntu&theme=dark"/>
+
 
 <h2 align="center">🧠 SYSTEM VISUAL CORE</h2>
 
