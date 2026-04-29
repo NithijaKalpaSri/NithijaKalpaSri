@@ -45,8 +45,9 @@ Learning arch btw 🐧⚔️...
 <p align="center">
 <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="700"/>
 </p>
+
 🌐 Connect with Me
----
+- LinkedIn : https://www.linkedin.com/in/mdnkalpasri
 
 <h2 align="center">🔥 Developer Dashboard</h2>
 
