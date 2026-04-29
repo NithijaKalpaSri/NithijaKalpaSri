@@ -47,7 +47,7 @@ Learning arch btw 🐧⚔️...
 </p>
 
 🌐 Connect with Me
-- LinkedIn : https://www.linkedin.com/in/mdnkalpasri
+- LinkedIn : https://www.linkedin.com/in/mdnkalpasri/
 
 <h2 align="center">🔥 Developer Dashboard</h2>
 
