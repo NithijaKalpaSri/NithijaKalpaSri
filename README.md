@@ -108,6 +108,6 @@ Learning arch btw 🐧⚔️...
 🌐 Connect with Me <br><br>
 
 <a href="(https://www.linkedin.com/in/mdnkalpasri/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30"/>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" style="filter: invert(1);"/>
 </a>
 
