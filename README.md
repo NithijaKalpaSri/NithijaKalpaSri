@@ -117,3 +117,20 @@ Learning arch btw 🐧⚔️...
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdnkalpasri/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/yourusername">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/n_kalpa_?igsh=d2czaGZta25rb256">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/>
+  </a>
+</p>
