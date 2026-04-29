@@ -43,7 +43,7 @@ Learning arch btw 🐧⚔️...
 <h2 align="center">🧠 SYSTEM VISUAL CORE</h2>
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="700"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRxM3R0ajg3em93a2dnb3BhM2RoZGtzcmQ0cW1mbW5sZ3huaWNtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="700"/>
 </p>
 
 
@@ -103,6 +103,6 @@ Learning arch btw 🐧⚔️...
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=SYSTEM+ONLINE...;CloudOps+Loading...;Linux+User+BTW;Cyberpunk+Builder&center=true&width=700&height=80&color=00ffcc&size=40">
 </p>
-🌐 Connect with Me <br>
+🌐 Connect with Me <br><br>
 - LinkedIn : https://www.linkedin.com/in/mdnkalpasri/
 
