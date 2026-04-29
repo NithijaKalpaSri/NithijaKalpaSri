@@ -14,6 +14,7 @@ Learning arch btw 🐧⚔️...
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Arch+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc&size=32">
+  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZ5eWE2ejQ5bHJqbHB6OTk5ZzdzaG5mZTloNDZmbXJseGs2dXN2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="300"/>
 </p>
 
 ---
