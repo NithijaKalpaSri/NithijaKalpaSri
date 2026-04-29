@@ -14,7 +14,7 @@ Learning arch btw 🐧⚔️...
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Arch+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc&size=32">
-  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZ5eWE2ejQ5bHJqbHB6OTk5ZzdzaG5mZTloNDZmbXJseGs2dXN2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100"/>
+  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGF0ZzAwaW03NTA2dG0waXJqNm0zZHU4cTczZ2FmNzJpMHhrODU4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="100"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@ Learning arch btw 🐧⚔️...
 <h2 align="center">🧠 SYSTEM VISUAL CORE</h2>
 
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRxM3R0ajg3em93a2dnb3BhM2RoZGtzcmQ0cW1mbW5sZ3huaWNtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="700"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRxM3R0ajg3em93a2dnb3BhM2RoZGtzcmQ0cW1mbW5sZ3huaWNtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500"/>
 </p>
 
 
