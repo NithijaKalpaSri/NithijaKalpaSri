@@ -106,5 +106,5 @@ Learning arch btw 🐧⚔️...
 <img src="https://readme-typing-svg.demolab.com/?lines=SYSTEM+ONLINE...;CloudOps+Loading...;Linux+User+BTW;Cyberpunk+Builder&center=true&width=700&height=80&color=00ffcc&size=40">
 </p>
 🌐 Connect with Me <br><br>
-- LinkedIn : https://www.linkedin.com/in/mdnkalpasri/
+- LinkedIn :[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdnkalpasri/)
 
