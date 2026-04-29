@@ -105,18 +105,6 @@ Learning arch btw 🐧⚔️...
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=SYSTEM+ONLINE...;CloudOps+Loading...;Linux+User+BTW;Cyberpunk+Builder&center=true&width=700&height=80&color=00ffcc&size=40">
 </p>
-<h2 align="center">🌐 Connect with Me </h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/mdnkalpasri/">
-   <img src="https://img.icons8.com/color/48/linkedin.png" width="30"/>
-</a>
-
-  
-   
-  <a href="https://www.instagram.com/n_kalpa_?igsh=d2czaGZta25rb256">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
-  </a>
-</p>
 
 
 <h2 align="center">🌐 Connect with Me</h2>
