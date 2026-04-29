@@ -114,7 +114,7 @@ Learning arch btw 🐧⚔️...
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/NithijaKalpaSri">
     <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
