@@ -115,7 +115,7 @@ Learning arch btw 🐧⚔️...
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/NithijaKalpaSri">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" style="filter: invert(1);"/>
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/n_kalpa_?igsh=d2czaGZta25rb256">
