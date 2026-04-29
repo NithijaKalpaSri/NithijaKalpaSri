@@ -107,7 +107,7 @@ Learning arch btw 🐧⚔️...
 </p>
 🌐 Connect with Me <br><br>
 
-<a href="(https://www.linkedin.com/in/mdnkalpasri/">
+<a href="https://www.linkedin.com/in/mdnkalpasri/">
    <img src="https://img.icons8.com/color/48/linkedin.png" width="30"/>
 </a>
 
