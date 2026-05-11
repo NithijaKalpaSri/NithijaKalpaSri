@@ -63,7 +63,7 @@ Learning arch btw 🐧⚔️...
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithijaKalpaSri&layout=compact&theme=tokyonight&langs_count=10&hide=jupyter%20notebook"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NithijaKalpaSri&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=1800"/>
 </td>
 
 </tr>
