@@ -101,10 +101,6 @@ Learning arch btw 🐧⚔️...
 
 ---
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=SYSTEM+ONLINE...;CloudOps+Loading...;Linux+User+BTW;Cyberpunk+Builder&center=true&width=700&height=80&color=00ffcc&size=40">
-</p>
-
 
 <h2 align="center">🌐 Connect with Me</h2>
 
