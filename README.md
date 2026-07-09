@@ -6,7 +6,8 @@
 <h1 align="center">Yo! I am Nithija Kalpa 👋</h1>
 
 Just tech ! ✌️<br>
-<a href="nithijakalpa.tech">My Portfolio</a>
+<a href="nithijakalpa.tech" target="_blank" rel="noopener noreferrer">Portoflio</a>
+
 
 
 
