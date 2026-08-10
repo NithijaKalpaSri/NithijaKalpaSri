@@ -50,7 +50,7 @@ Just tech ! ✌️<br>
 
 
 
-<h2 align="center">🔥 Developer Dashboard</h2>
+<!-- <h2 align="center">🔥 Developer Dashboard</h2>
 
 <table align="center">
 <tr>
@@ -69,7 +69,7 @@ Just tech ! ✌️<br>
 </tr>
 </table>
 
----
+--- -->
 
 <h2 align="center">⚡ Activity Panel</h2>
 
