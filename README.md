@@ -1,119 +1,67 @@
 <p align="center">
-<img src="avatar_gif.gif?v=2" width="250">
+  <img src="assets/hero.svg" alt="Yo! I am Nithija Kalpa - Software Engineering Student, Cyberpunk Builder, Arch User BTW" width="100%"/>
 </p>
 
-
-<h1 align="center">Yo! I am Nithija Kalpa 👋</h1>
-
-Just tech ! ✌️<br>
-[Portfolio](https://nithija.me)
-
-
-
-
-
 <p align="center">
-   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGF0ZzAwaW03NTA2dG0waXJqNm0zZHU4cTczZ2FmNzJpMHhrODU4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="100"  style="margin-top:-100px;"/>
-<img src="https://readme-typing-svg.demolab.com/?lines=Loading...;Arch+User+BTW;Software+Engineering+Student;Cyberpunk+Builder&center=true&width=600&height=70&color=00ffcc&size=32">
- 
+  <a href="https://nithija.me"><img src="assets/pill-portfolio.svg" alt="Portfolio" height="52"/></a>
+  <a href="https://www.linkedin.com/in/mdnkalpasri/"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="52"/></a>
+  <a href="https://github.com/NithijaKalpaSri"><img src="assets/pill-github.svg" alt="GitHub" height="52"/></a>
+  <a href="https://www.instagram.com/n_kalpa_?igsh=d2czaGZta25rb256"><img src="assets/pill-instagram.svg" alt="Instagram" height="52"/></a>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
-<h2 align="center">🚀 TECH STACK</h2>
+<h2 align="center">TECH STACK</h2>
 
-<h3 align="center">Frontend</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,ts&theme=dark"/>
+  <img src="assets/tech-panel.svg" alt="Tech stack: Frontend, Backend, Tools and IDE, Operating Systems" width="100%"/>
 </p>
 
-<h3 align="center">Backend</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,docker,firebase,flutter,spring,gradle,c,cs,php,cpp&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,ts,java,docker,firebase,flutter,spring,gradle,c,cs,php,cpp&theme=dark" alt="Languages and frameworks"/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,github,figma,discord,notion,androidstudio,postman,windows,apple,arch,debian,mint,ubuntu&theme=dark" alt="Tools and operating systems"/>
 </p>
 
-<h3 align="center">Tools & IDE</h3>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+
+<h2 align="center">STACK BREAKDOWN</h2>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,github,figma,discord,notion,androidstudio,postman&theme=dark"/>
+  <img src="assets/stack-charts.svg" alt="Donut and bar charts of the tools in each category" width="100%"/>
 </p>
 
-<h3 align="center">Operating Systems</h3>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=windows,apple,arch,debian,mint,ubuntu&theme=dark"/>
-
-
-<h2 align="center">🧠 SYSTEM VISUAL CORE</h2>
-
-<p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRxM3R0ajg3em93a2dnb3BhM2RoZGtzcmQ0cW1mbW5sZ3huaWNtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500"/>
-</p>
-
-
-
-<!-- <h2 align="center">🔥 Developer Dashboard</h2>
+<h2 align="center">ACTIVITY PANEL</h2>
 
 <table align="center">
 <tr>
-
-<td>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NithijaKalpaSri&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
+<td align="center">
+  <img src="https://streak-stats.demolab.com?user=NithijaKalpaSri&background=0A0412&stroke=A855F7&ring=D946EF&fire=F472B6&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=D946EF&sideLabels=C4B5FD&dates=A78BFA&hide_border=true" alt="GitHub streak"/>
 </td>
-
-<td>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NithijaKalpaSri&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=1800"/>
+<td align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NithijaKalpaSri&layout=donut&langs_count=8&bg_color=0A0412&title_color=D946EF&text_color=C4B5FD&hide_border=true" alt="Top languages"/>
 </td>
-
 </tr>
-</table>
-
---- -->
-
-<h2 align="center">⚡ Activity Panel</h2>
-
-<table align="center">
 <tr>
-
-<td>
-
-<img src="https://streak-stats.demolab.com?user=NithijaKalpaSri&theme=tokyonight&hide_border=true"/>
-
+<td colspan="2" align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NithijaKalpaSri&bg_color=0A0412&color=C4B5FD&line=A855F7&point=F472B6&area=true&area_color=A855F7&title_color=D946EF&hide_border=true" alt="Contribution activity graph" width="100%"/>
 </td>
-
-<td>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithijaKalpaSri&theme=tokyo-night&hide_border=true"/>
-
-</td>
-
 </tr>
 </table>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
-<h2 align="center">🌌 3D Contribution Graph</h2>
+<h2 align="center">3D CONTRIBUTION GRAPH</h2>
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-night-view.svg" width="900"/>
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="900" alt="3D contribution graph"/>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
-
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">CONNECT WITH ME</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdnkalpasri/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/NithijaKalpaSri">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/n_kalpa_?igsh=d2czaGZta25rb256">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/>
-  </a>
+  <a href="https://www.linkedin.com/in/mdnkalpasri/"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="52"/></a>
+  <a href="https://github.com/NithijaKalpaSri"><img src="assets/pill-github.svg" alt="GitHub" height="52"/></a>
+  <a href="https://www.instagram.com/n_kalpa_?igsh=d2czaGZta25rb256"><img src="assets/pill-instagram.svg" alt="Instagram" height="52"/></a>
 </p>
