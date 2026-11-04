@@ -6,7 +6,7 @@
 <h1 align="center">Yo! I am Nithija Kalpa 👋</h1>
 
 Just tech ! ✌️<br>
-[Portfolio](https://nithijakalpa.tech)
+[Portfolio](https://nithija.me)
 
 
 
