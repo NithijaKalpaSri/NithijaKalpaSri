@@ -9,6 +9,12 @@
   <a href="https://www.instagram.com/n_kalpa_?igsh=d2czaGZta25rb256"><img src="assets/pill-instagram.svg" alt="Instagram" height="52"/></a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/1WXthScBggAKxu068p/giphy.gif" alt="Graffiti lettering animation" height="170"/>
+  <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" alt="Cute pink cat working on a laptop" height="170"/>
+  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" alt="Cute cat coding under a deadline" height="170"/>
+</p>
+
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 <h2 align="center">TECH STACK</h2>
@@ -18,8 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,ts,java,docker,firebase,flutter,spring,gradle,c,cs,php,cpp&theme=dark" alt="Languages and frameworks"/><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,github,figma,discord,notion,androidstudio,postman,windows,apple,arch,debian,mint,ubuntu&theme=dark" alt="Tools and operating systems"/>
+  <img src="assets/tech-graph.svg" alt="Neon network graph of my tech stack" width="100%"/>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
@@ -30,30 +35,18 @@
   <img src="assets/stack-charts.svg" alt="Donut and bar charts of the tools in each category" width="100%"/>
 </p>
 
-<h2 align="center">ACTIVITY PANEL</h2>
-
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://streak-stats.demolab.com?user=NithijaKalpaSri&background=0A0412&stroke=A855F7&ring=D946EF&fire=F472B6&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=D946EF&sideLabels=C4B5FD&dates=A78BFA&hide_border=true" alt="GitHub streak"/>
-</td>
-<td align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NithijaKalpaSri&layout=donut&langs_count=8&bg_color=0A0412&title_color=D946EF&text_color=C4B5FD&hide_border=true" alt="Top languages"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NithijaKalpaSri&bg_color=0A0412&color=C4B5FD&line=A855F7&point=F472B6&area=true&area_color=A855F7&title_color=D946EF&hide_border=true" alt="Contribution activity graph" width="100%"/>
-</td>
-</tr>
-</table>
-
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
-<h2 align="center">3D CONTRIBUTION GRAPH</h2>
+<h2 align="center">ACTIVITY PANEL</h2>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="900" alt="3D contribution graph"/>
+  <img src="assets/activity-panel.svg" alt="GitHub activity: 600 total contributions, current streak 1 day, longest streak 22 days, weekly activity chart" width="100%"/>
+</p>
+
+<h2 align="center">CONTRIBUTION MAP</h2>
+
+<p align="center">
+  <img src="assets/contribution-map.svg" alt="Contribution heatmap for the last 12 months with monthly and weekday charts" width="100%"/>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
