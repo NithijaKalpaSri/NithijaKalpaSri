@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24"><style>
+  @keyframes run{from{stroke-dashoffset:0}to{stroke-dashoffset:-120}}
+  .l{animation:run 3s linear infinite}
+  @media (prefers-reduced-motion: reduce){.l{animation:none}}</style>
+  <line x1="0" y1="12" x2="900" y2="12" stroke="#a855f7" stroke-opacity=".3"/>
+  <line class="l" x1="0" y1="12" x2="900" y2="12" stroke="#d946ef" stroke-width="3" stroke-dasharray="40 80" stroke-linecap="round"/>
+  <circle cx="450" cy="12" r="5" fill="#f472b6"/></svg>

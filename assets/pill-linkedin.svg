@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60" role="img"><title>LinkedIn</title><style>
+  text{font-family:'Segoe UI', 'Helvetica Neue', Arial, sans-serif}
+  @keyframes gridMove{to{transform:translate(40px,40px)}}
+  @keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes spinR{to{transform:rotate(-360deg)}}
+  @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+  @keyframes slideA{0%,100%{transform:translate(0,0)}50%{transform:translate(14px,-14px)}}
+  @keyframes slideB{0%,100%{transform:translate(0,0)}50%{transform:translate(-14px,14px)}}
+  @keyframes cycle{0%{opacity:0;transform:translateY(8px)}6%{opacity:1;transform:translateY(0)}30%{opacity:1}36%{opacity:0}100%{opacity:0}}
+  @keyframes blink{50%{opacity:0}}
+  @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+  @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  @keyframes scan{0%{transform:translateY(-20px)}100%{transform:translateY(var(--h))}}
+  .grid{animation:gridMove 6s linear infinite}
+  .float{animation:floaty 5s ease-in-out infinite}
+  .spin{animation:spin 24s linear infinite;transform-box:fill-box;transform-origin:center}
+  .spinR{animation:spinR 36s linear infinite;transform-box:fill-box;transform-origin:center}
+  .pulse{animation:pulse 3s ease-in-out infinite}
+  .rise{opacity:0;animation:rise .7s ease-out forwards}
+  .glowtxt{filter:drop-shadow(0 0 6px #a855f7)}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+</style>
+  <rect x="3" y="3" width="194" height="54" rx="16" fill="#07020f" fill-opacity=".9"/>
+  <rect x="3" y="3" width="194" height="54" rx="16" fill="none" stroke="#60a5fa" stroke-width="2.5" class="pulse" filter="drop-shadow(0 0 5px #60a5fa)"/>
+  <circle cx="30" cy="30" r="5" fill="#60a5fa" class="pulse"/>
+  <text x="48" y="36" font-size="18" font-weight="700" fill="#ede9fe">LinkedIn</text></svg>

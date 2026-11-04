@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img">
+<style>
+  text{font-family:'Segoe UI', 'Helvetica Neue', Arial, sans-serif}
+  @keyframes gridMove{to{transform:translate(40px,40px)}}
+  @keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes spinR{to{transform:rotate(-360deg)}}
+  @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+  @keyframes slideA{0%,100%{transform:translate(0,0)}50%{transform:translate(14px,-14px)}}
+  @keyframes slideB{0%,100%{transform:translate(0,0)}50%{transform:translate(-14px,14px)}}
+  @keyframes cycle{0%{opacity:0;transform:translateY(8px)}6%{opacity:1;transform:translateY(0)}30%{opacity:1}36%{opacity:0}100%{opacity:0}}
+  @keyframes blink{50%{opacity:0}}
+  @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+  @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  @keyframes scan{0%{transform:translateY(-20px)}100%{transform:translateY(var(--h))}}
+  .grid{animation:gridMove 6s linear infinite}
+  .float{animation:floaty 5s ease-in-out infinite}
+  .spin{animation:spin 24s linear infinite;transform-box:fill-box;transform-origin:center}
+  .spinR{animation:spinR 36s linear infinite;transform-box:fill-box;transform-origin:center}
+  .pulse{animation:pulse 3s ease-in-out infinite}
+  .rise{opacity:0;animation:rise .7s ease-out forwards}
+  .glowtxt{filter:drop-shadow(0 0 6px #a855f7)}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+
+    @keyframes draw1{to{stroke-dashoffset:0}}
+    @keyframes popIn{from{opacity:0;transform:scale(.3)}to{opacity:1;transform:scale(1)}}
+    @keyframes growY{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+    @keyframes sweep{0%{transform:translateX(-160px)}100%{transform:translateX(1100px)}}
+    @keyframes ringDash{to{stroke-dashoffset:-400}}
+    @keyframes flame{0%,100%{transform:scale(1) rotate(-3deg)}50%{transform:scale(1.15) rotate(3deg)}}
+    .line{stroke-dasharray:1;stroke-dashoffset:1;animation:draw1 2.4s .5s ease-out forwards}
+    .pop{opacity:0;transform-box:fill-box;transform-origin:center;animation:popIn .5s ease-out forwards}
+    .bar{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:growY .9s ease-out forwards}
+    .sweep{animation:sweep 5s 2.5s ease-in-out infinite}
+    .ringrun{stroke-dasharray:40 360;animation:ringDash 4s linear infinite}
+    .flame{transform-box:fill-box;transform-origin:center bottom;animation:flame 1.4s ease-in-out infinite}
+  </style>
+<defs>
+  <linearGradient id="bga" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07020f"/><stop offset="1" stop-color="#1b0838"/>
+  </linearGradient>
+  <linearGradient id="bara" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7c3aed" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#a855f7" stop-opacity=".9"/>
+    <stop offset="1" stop-color="#d946ef" stop-opacity=".1"/>
+  </linearGradient>
+  <linearGradient id="emba" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c4b5fd"/><stop offset=".5" stop-color="#d946ef"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <radialGradient id="glowa"><stop offset="0" stop-color="#a855f7" stop-opacity=".55"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+  <filter id="blura" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+  <pattern id="grida" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#a855f7" stroke-opacity=".10"/>
+  </pattern>
+</defs>
+<clipPath id="rounda"><rect width="900" height="500" rx="22"/></clipPath>
+<g clip-path="url(#rounda)">
+    
+  <rect width="900" height="500" fill="url(#bga)"/>
+  <g class="grid"><rect x="-40" y="-40" width="980" height="580" fill="url(#grida)"/></g>
+  <g class="pulse"><ellipse cx="702" cy="250" rx="252.00000000000003" ry="300" fill="url(#glowa)"/></g>
+
+    <defs>
+      <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d946ef" stop-opacity=".55"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></linearGradient>
+      <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a855f7"/><stop offset=".6" stop-color="#d946ef"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+      <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d946ef"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+    </defs>
+    
+    <g class="rise" style="animation-delay:0.1s">
+      <rect x="40" y="40" width="250" height="170" rx="20" fill="#07020f" fill-opacity=".7" stroke="#a855f7" stroke-opacity=".5"/>
+      <text x="165" y="84" font-size="12" letter-spacing="3" text-anchor="middle" fill="#c4b5fd">TOTAL CONTRIBUTIONS</text>
+      <text x="165" y="142" font-size="56" font-weight="800" text-anchor="middle" fill="#ede9fe" class="glowtxt">600</text>
+      <text x="165" y="176" font-size="13" text-anchor="middle" fill="#a855f7">Dec 28, 2023 – Present</text>
+      <rect x="135" y="190" width="60" height="4" rx="2" fill="#a855f7" class="pulse"/>
+    </g>
+    
+    <g class="rise" style="animation-delay:0.3s">
+      <rect x="610" y="40" width="250" height="170" rx="20" fill="#07020f" fill-opacity=".7" stroke="#f472b6" stroke-opacity=".5"/>
+      <text x="735" y="84" font-size="12" letter-spacing="3" text-anchor="middle" fill="#c4b5fd">LONGEST STREAK</text>
+      <text x="735" y="142" font-size="56" font-weight="800" text-anchor="middle" fill="#ede9fe" class="glowtxt">22</text>
+      <text x="735" y="176" font-size="13" text-anchor="middle" fill="#f472b6">Apr 29 – May 20</text>
+      <rect x="705" y="190" width="60" height="4" rx="2" fill="#f472b6" class="pulse"/>
+    </g>
+    <g class="rise" style="animation-delay:.2s">
+      <circle cx="450" cy="125" r="72" fill="#07020f" fill-opacity=".8"/>
+      <circle cx="450" cy="125" r="64" fill="none" stroke="#a855f7" stroke-opacity=".25" stroke-width="8"/>
+      <circle cx="450" cy="125" r="64" fill="none" stroke="url(#ring)" stroke-width="8" stroke-linecap="round" filter="drop-shadow(0 0 8px #d946ef)" class="pulse"/>
+      <circle cx="450" cy="125" r="64" fill="none" stroke="#fff" stroke-opacity=".9" stroke-width="3" stroke-linecap="round" class="ringrun"/>
+      <path class="flame" d="M450 40 c10 12 18 20 14 33 c-2 6 -7 9 -14 9 c-7 0 -12 -4 -14 -10 c-3 -9 3 -14 7 -20 c1 5 4 7 7 7 c-1 -8 -2 -12 0 -19z" fill="#f472b6" filter="drop-shadow(0 0 6px #f472b6)"/>
+      <text x="450" y="146" font-size="52" font-weight="800" text-anchor="middle" fill="#ede9fe" class="glowtxt">1</text>
+      <text x="450" y="218" font-size="12" letter-spacing="3" text-anchor="middle" fill="#d946ef">CURRENT STREAK</text>
+      <text x="450" y="236" font-size="12" text-anchor="middle" fill="#c4b5fd">Nov 4</text>
+    </g>
+
+    <text x="60" y="268" font-size="15" font-weight="700" fill="#ede9fe">Weekly activity</text>
+    <text x="840" y="268" font-size="12" text-anchor="end" fill="#c4b5fd">last 12 months · 580 contributions</text>
+    <line x1="60" x2="840" y1="285" y2="285" stroke="#a855f7" stroke-opacity=".12" stroke-dasharray="4 6"/><line x1="60" x2="840" y1="336.6666666666667" y2="336.6666666666667" stroke="#a855f7" stroke-opacity=".12" stroke-dasharray="4 6"/><line x1="60" x2="840" y1="388.3333333333333" y2="388.3333333333333" stroke="#a855f7" stroke-opacity=".12" stroke-dasharray="4 6"/><line x1="60" x2="840" y1="440" y2="440" stroke="#a855f7" stroke-opacity=".12" stroke-dasharray="4 6"/>
+    <path d="M60.0 440.0 C62.5 440.0 70.0 440.0 75.0 440.0 C80.0 440.0 85.0 440.0 90.0 440.0 C95.0 440.0 100.0 440.0 105.0 440.0 C110.0 440.0 115.0 440.0 120.0 440.0 C125.0 440.0 130.0 440.0 135.0 440.0 C140.0 440.0 145.0 440.0 150.0 440.0 C155.0 440.0 160.0 440.0 165.0 440.0 C170.0 440.0 175.0 440.0 180.0 440.0 C185.0 440.0 190.0 440.0 195.0 440.0 C200.0 440.0 205.0 440.0 210.0 440.0 C215.0 440.0 220.0 444.0 225.0 440.0 C230.0 436.0 235.0 422.5 240.0 416.0 C245.0 409.5 250.0 422.6 255.0 400.8 C260.0 379.0 265.0 285.0 270.0 285.0 C275.0 285.0 280.0 381.9 285.0 400.8 C290.0 419.7 295.0 396.5 300.0 398.4 C305.0 400.3 310.0 405.3 315.0 412.3 C320.0 419.2 325.0 440.0 330.0 440.0 C335.0 440.0 340.0 412.3 345.0 412.3 C350.0 412.3 355.0 435.4 360.0 440.0 C365.0 444.6 370.0 440.0 375.0 440.0 C380.0 440.0 385.0 446.1 390.0 440.0 C395.0 433.9 400.0 403.3 405.0 403.3 C410.0 403.3 415.0 451.3 420.0 440.0 C425.0 428.7 430.0 346.2 435.0 335.3 C440.0 324.5 445.0 373.0 450.0 375.0 C455.0 376.9 460.0 344.8 465.0 347.0 C470.0 349.2 475.0 382.2 480.0 388.1 C485.0 394.1 490.0 381.1 495.0 382.8 C500.0 384.6 505.0 399.0 510.0 398.4 C515.0 397.9 520.0 378.8 525.0 379.6 C530.0 380.4 535.0 401.3 540.0 403.3 C545.0 405.4 550.0 403.2 555.0 392.0 C560.0 380.8 565.0 337.2 570.0 336.3 C575.0 335.3 580.0 371.3 585.0 386.3 C590.0 401.3 595.0 417.2 600.0 426.1 C605.0 435.1 610.0 443.3 615.0 440.0 C620.0 436.7 625.0 422.5 630.0 406.0 C635.0 389.5 640.0 346.4 645.0 341.0 C650.0 335.6 655.0 363.5 660.0 373.5 C665.0 383.5 670.0 399.8 675.0 400.8 C680.0 401.8 685.0 373.0 690.0 379.6 C695.0 386.1 700.0 437.2 705.0 440.0 C710.0 442.8 715.0 396.2 720.0 396.2 C725.0 396.2 730.0 432.7 735.0 440.0 C740.0 447.3 745.0 444.0 750.0 440.0 C755.0 436.0 760.0 421.2 765.0 416.0 C770.0 410.8 775.0 407.3 780.0 409.0 C785.0 410.7 790.0 427.1 795.0 426.1 C800.0 425.2 805.0 401.0 810.0 403.3 C815.0 405.6 820.0 439.1 825.0 440.0 C830.0 440.9 837.5 414.2 840.0 409.0 L840 440 L60 440Z" fill="url(#area)" class="rise" style="animation-delay:1.6s"/>
+    <path d="M60.0 440.0 C62.5 440.0 70.0 440.0 75.0 440.0 C80.0 440.0 85.0 440.0 90.0 440.0 C95.0 440.0 100.0 440.0 105.0 440.0 C110.0 440.0 115.0 440.0 120.0 440.0 C125.0 440.0 130.0 440.0 135.0 440.0 C140.0 440.0 145.0 440.0 150.0 440.0 C155.0 440.0 160.0 440.0 165.0 440.0 C170.0 440.0 175.0 440.0 180.0 440.0 C185.0 440.0 190.0 440.0 195.0 440.0 C200.0 440.0 205.0 440.0 210.0 440.0 C215.0 440.0 220.0 444.0 225.0 440.0 C230.0 436.0 235.0 422.5 240.0 416.0 C245.0 409.5 250.0 422.6 255.0 400.8 C260.0 379.0 265.0 285.0 270.0 285.0 C275.0 285.0 280.0 381.9 285.0 400.8 C290.0 419.7 295.0 396.5 300.0 398.4 C305.0 400.3 310.0 405.3 315.0 412.3 C320.0 419.2 325.0 440.0 330.0 440.0 C335.0 440.0 340.0 412.3 345.0 412.3 C350.0 412.3 355.0 435.4 360.0 440.0 C365.0 444.6 370.0 440.0 375.0 440.0 C380.0 440.0 385.0 446.1 390.0 440.0 C395.0 433.9 400.0 403.3 405.0 403.3 C410.0 403.3 415.0 451.3 420.0 440.0 C425.0 428.7 430.0 346.2 435.0 335.3 C440.0 324.5 445.0 373.0 450.0 375.0 C455.0 376.9 460.0 344.8 465.0 347.0 C470.0 349.2 475.0 382.2 480.0 388.1 C485.0 394.1 490.0 381.1 495.0 382.8 C500.0 384.6 505.0 399.0 510.0 398.4 C515.0 397.9 520.0 378.8 525.0 379.6 C530.0 380.4 535.0 401.3 540.0 403.3 C545.0 405.4 550.0 403.2 555.0 392.0 C560.0 380.8 565.0 337.2 570.0 336.3 C575.0 335.3 580.0 371.3 585.0 386.3 C590.0 401.3 595.0 417.2 600.0 426.1 C605.0 435.1 610.0 443.3 615.0 440.0 C620.0 436.7 625.0 422.5 630.0 406.0 C635.0 389.5 640.0 346.4 645.0 341.0 C650.0 335.6 655.0 363.5 660.0 373.5 C665.0 383.5 670.0 399.8 675.0 400.8 C680.0 401.8 685.0 373.0 690.0 379.6 C695.0 386.1 700.0 437.2 705.0 440.0 C710.0 442.8 715.0 396.2 720.0 396.2 C725.0 396.2 730.0 432.7 735.0 440.0 C740.0 447.3 745.0 444.0 750.0 440.0 C755.0 436.0 760.0 421.2 765.0 416.0 C770.0 410.8 775.0 407.3 780.0 409.0 C785.0 410.7 790.0 427.1 795.0 426.1 C800.0 425.2 805.0 401.0 810.0 403.3 C815.0 405.6 820.0 439.1 825.0 440.0 C830.0 440.9 837.5 414.2 840.0 409.0" pathLength="1" fill="none" stroke="url(#stroke)" stroke-width="3.5" stroke-linecap="round" filter="drop-shadow(0 0 6px #d946ef)" class="line"/>
+    <g class="rise" style="animation-delay:2.8s">
+      <circle cx="270.0" cy="285.0" r="14" fill="#f472b6" opacity=".25" class="pulse"/>
+      <circle cx="270.0" cy="285.0" r="5.5" fill="#fff" stroke="#f472b6" stroke-width="3"/>
+      <text x="282.0" y="289.0" font-size="12" font-weight="700" fill="#ede9fe">peak week · 125</text>
+    </g>
+    <text x="60.0" y="462" font-size="11" text-anchor="middle" fill="#c4b5fd" fill-opacity=".8">Nov</text><text x="135.0" y="462" font-size="11" text-anchor="middle" fill="#c4b5fd" fill-opacity=".8">Dec</text><text x="195.0" y="462" font-size="11" text-anchor="middle" fill="#c4b5fd" fill-opacity=".8">Jan</text><text x="255.0" y="462" font-size="11" text-anchor="middle" fill="#c4b5fd" fill-opacity=".8">Feb</text><text x="315.0" y="462" font-size="11" text-anchor="middle" fill="#c4b5fd" fill-opacity=".8">Mar</text><text x="390.0" y="462" font-size="11" text-anchor="middle" fill="#c4b5fd" fill-opacity=".8">Apr</text><text x="450.0" y="462" font-size="11" text-anchor="middle" fill="#c4b5fd" fill-opacity=".8">May</text><text x="525.0" y="462" font-size="11" text-anchor="middle" fill="#c4b5fd" fill-opacity=".8">Jun</text><text x="585.0" y="462" font-size="11" text-anchor="middle" fill="#c4b5fd" fill-opacity=".8">Jul</text><text x="645.0" y="462" font-size="11" text-anchor="middle" fill="#c4b5fd" fill-opacity=".8">Aug</text><text x="720.0" y="462" font-size="11" text-anchor="middle" fill="#c4b5fd" fill-opacity=".8">Sep</text><text x="780.0" y="462" font-size="11" text-anchor="middle" fill="#c4b5fd" fill-opacity=".8">Oct</text><text x="840.0" y="462" font-size="11" text-anchor="middle" fill="#c4b5fd" fill-opacity=".8">Nov</text>
+    <circle r="4" fill="#fff" filter="drop-shadow(0 0 6px #f472b6)"><animateMotion dur="6s" begin="3s" repeatCount="indefinite" path="M60.0 440.0 C62.5 440.0 70.0 440.0 75.0 440.0 C80.0 440.0 85.0 440.0 90.0 440.0 C95.0 440.0 100.0 440.0 105.0 440.0 C110.0 440.0 115.0 440.0 120.0 440.0 C125.0 440.0 130.0 440.0 135.0 440.0 C140.0 440.0 145.0 440.0 150.0 440.0 C155.0 440.0 160.0 440.0 165.0 440.0 C170.0 440.0 175.0 440.0 180.0 440.0 C185.0 440.0 190.0 440.0 195.0 440.0 C200.0 440.0 205.0 440.0 210.0 440.0 C215.0 440.0 220.0 444.0 225.0 440.0 C230.0 436.0 235.0 422.5 240.0 416.0 C245.0 409.5 250.0 422.6 255.0 400.8 C260.0 379.0 265.0 285.0 270.0 285.0 C275.0 285.0 280.0 381.9 285.0 400.8 C290.0 419.7 295.0 396.5 300.0 398.4 C305.0 400.3 310.0 405.3 315.0 412.3 C320.0 419.2 325.0 440.0 330.0 440.0 C335.0 440.0 340.0 412.3 345.0 412.3 C350.0 412.3 355.0 435.4 360.0 440.0 C365.0 444.6 370.0 440.0 375.0 440.0 C380.0 440.0 385.0 446.1 390.0 440.0 C395.0 433.9 400.0 403.3 405.0 403.3 C410.0 403.3 415.0 451.3 420.0 440.0 C425.0 428.7 430.0 346.2 435.0 335.3 C440.0 324.5 445.0 373.0 450.0 375.0 C455.0 376.9 460.0 344.8 465.0 347.0 C470.0 349.2 475.0 382.2 480.0 388.1 C485.0 394.1 490.0 381.1 495.0 382.8 C500.0 384.6 505.0 399.0 510.0 398.4 C515.0 397.9 520.0 378.8 525.0 379.6 C530.0 380.4 535.0 401.3 540.0 403.3 C545.0 405.4 550.0 403.2 555.0 392.0 C560.0 380.8 565.0 337.2 570.0 336.3 C575.0 335.3 580.0 371.3 585.0 386.3 C590.0 401.3 595.0 417.2 600.0 426.1 C605.0 435.1 610.0 443.3 615.0 440.0 C620.0 436.7 625.0 422.5 630.0 406.0 C635.0 389.5 640.0 346.4 645.0 341.0 C650.0 335.6 655.0 363.5 660.0 373.5 C665.0 383.5 670.0 399.8 675.0 400.8 C680.0 401.8 685.0 373.0 690.0 379.6 C695.0 386.1 700.0 437.2 705.0 440.0 C710.0 442.8 715.0 396.2 720.0 396.2 C725.0 396.2 730.0 432.7 735.0 440.0 C740.0 447.3 745.0 444.0 750.0 440.0 C755.0 436.0 760.0 421.2 765.0 416.0 C770.0 410.8 775.0 407.3 780.0 409.0 C785.0 410.7 790.0 427.1 795.0 426.1 C800.0 425.2 805.0 401.0 810.0 403.3 C815.0 405.6 820.0 439.1 825.0 440.0 C830.0 440.9 837.5 414.2 840.0 409.0"/></circle></g>
+<rect x="1" y="1" width="898" height="498" rx="22" fill="none" stroke="#a855f7" stroke-opacity=".45"/>
+</svg>
