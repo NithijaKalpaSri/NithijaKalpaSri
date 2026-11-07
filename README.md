@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Yo! I am Nithija Kalpa - Software Engineering Student, Cyberpunk Builder, Arch User BTW" width="100%"/>
+  <img src="assets/hero.svg" alt="Yo! I am Nithija Kalpa - CS AI UG, Cyberpunk Builder, Developer" width="100%"/>
 </p>
 
 <p align="center">
