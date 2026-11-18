@@ -6,7 +6,6 @@
   <a href="https://nithija.me"><img src="assets/pill-portfolio.svg" alt="Portfolio" height="52"/></a>
   <a href="https://www.linkedin.com/in/mdnkalpasri/"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="52"/></a>
   <a href="https://github.com/NithijaKalpaSri"><img src="assets/pill-github.svg" alt="GitHub" height="52"/></a>
-  <a href="https://www.instagram.com/n_kalpa_?igsh=d2czaGZta25rb256"><img src="assets/pill-instagram.svg" alt="Instagram" height="52"/></a>
 </p>
 
 <p align="center">
